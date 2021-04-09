@@ -1,0 +1,31 @@
+.nav-tabs .nav-link.active {
+    background-color:#444d58; 
+    color:white;
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link.active:hover, .nav-tabs  .nav-link:hover{
+    background-color:#626e80; 
+    color:white;
+    border-bottom: none;
+}
+
+.nav-tabs {
+    border-bottom: 3px solid #444d58;
+}
+
+.DateRangePicker_picker {
+    z-index: 10;
+}
+
+.Select--multi{
+    width: 90%;
+}
+
+.error{
+    border:3px solid red
+}
+
+.sameDiscount{
+    background-color: salmon !important;
+}

@@ -1,0 +1,99 @@
+{
+  "name": "@coreui/prime-react-admin-template",
+  "version": "2.1.0",
+  "description": "Prime React Admin Template",
+  "author": {
+    "name": "Daniel Obed Ortega",
+    "url": "https://www.bobseller.com",
+    "github": "https://www.bobseller.com",
+    "twitter": "https://www.bobseller.com"
+  },
+  "contributors": [
+    {
+      "name": "ADaniel Obed Ortega",
+      "url": "https://www.bobseller.com"
+    }
+  ],
+  "homepage": ".",
+  "copyright": "BobSeller.com",
+  "license": "https://www.bobseller.com",
+  "private": true,
+  "dependencies": {
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.2.0",
+    "@coreui/coreui-pro": "^2.1.16",
+    "@coreui/icons": "^0.3.0",
+    "@coreui/react": "^2.5.8",
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-regular-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.10",
+    "bootstrap": "^4.5.0",
+    "chart.js": "^2.9.3",
+    "classnames": "^2.2.6",
+    "cloudinary-core": "^2.11.1",
+    "cloudinary-react": "^1.6.6",
+    "codemirror": "^5.54.0",
+    "core-js": "^2.6.11",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "firebase": "^6.6.2",
+    "flag-icon-css": "^3.4.6",
+    "font-awesome": "^4.7.0",
+    "formik": "^1.3.1",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.13.1",
+    "react-app-polyfill": "^0.1.3",
+    "react-big-calendar": "0.19.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-codemirror2": "^5.1.0",
+    "react-csv": "^2.0.3",
+    "react-currency-format": "^1.0.0",
+    "react-dates": "^18.2.2",
+    "react-dom": "^16.13.1",
+    "react-google-maps": "9.4.5",
+    "react-grid-layout": "^0.16.6",
+    "react-ladda": "6.0.0",
+    "react-loadable": "^5.5.0",
+    "react-loadingg": "^1.7.2",
+    "react-moment": "^0.9.7",
+    "react-quill": "1.3.2",
+    "react-redux": "^7.2.0",
+    "react-router-config": "^4.4.0-beta.6",
+    "react-router-dom": "^4.3.1",
+    "react-select": "^1.3.0",
+    "react-test-renderer": "^16.13.1",
+    "react-text-mask-hoc": "^0.11.0",
+    "react-toastify": "^4.4.1",
+    "reactstrap": "^6.5.0",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.6",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.87.3",
+    "simple-line-icons": "^2.4.1",
+    "spinkit": "1.2.5",
+    "yup": "^0.26.6"
+  },
+  "devDependencies": {
+    "react-scripts": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:debug": "react-scripts --inspect-brk test --runInBand",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 10",
+    "not op_mini all"
+  ]
+}
